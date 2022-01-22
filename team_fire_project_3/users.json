@@ -1,0 +1,126 @@
+{
+  "user1": {
+    "first_name": "Gabby",
+    "last_name": "Rigol",
+    "email": "rigol.1@osu.edu",
+    "audiences": [
+      "Students (Columbus Campus)",
+      "General Public"
+    ],
+    "categories": [
+      "Comedy",
+      "Food",
+      "Movies",
+      "Sustainability"
+    ],
+    "departments": [
+      "Student Activities",
+      "Student Life"
+    ],
+    "time_range": [
+      "2021,1,1,00,00,00",
+      "2021,12,31,23,59,59"
+    ],
+    "rsvp": false,
+    "tags": [
+      "Diversity",
+      "Reading"
+    ]
+  },
+  "user2": {
+    "first_name": "Michael",
+    "last_name": "Taylor",
+    "email": "rigol.1@osu.edu",
+    "audiences": [
+      "Students (All)",
+      "Parents/Family"
+    ],
+    "categories": [
+      "Comedy",
+      "Community Service/Outreach",
+      "Food",
+      "Sustainability",
+      "Professional/Personal Development"
+    ],
+    "departments": [
+      "Student Activities",
+      "BuckID",
+      "The Ohio Union"
+    ],
+    "time_range": [
+      "2021,1,1,00,00,00",
+      "2021,12,31,23,59,59"
+    ],
+    "rsvp": false,
+    "tags": [
+      "Diversity",
+      "empowerment"
+    ]
+  },
+  "user3": {
+    "first_name": "Wenjin",
+    "last_name": "Fu",
+    "email": "rigol.1@osu.edu",
+    "audiences": [
+      "Students (All)",
+      "Faculty/Staff"
+    ],
+    "categories": [
+      "Comedy",
+      "Family Friendly",
+      "Food",
+      "Health and Wellness",
+      "Lectures"
+    ],
+    "departments": [
+      "Student Life",
+      "Recreational Sports",
+      "The Ohio Union",
+      "Younkin Success Center"
+    ],
+    "time_range": [
+      "2021,1,1,00,00,00",
+      "2021,12,31,23,59,59"
+    ],
+    "rsvp": false,
+    "tags": [
+      "COVID-19",
+      "Diversity",
+      "expression",
+      "Intercultural"
+    ]
+  },
+  "user4": {
+    "first_name": "Yu",
+    "last_name": "Xiong",
+    "email": "rigol.1@osu.edu",
+    "audiences": [
+      "Students (All)",
+      "Alumni",
+      "Graduate/Professional Students"
+    ],
+    "categories": [
+      "Music",
+      "Family Friendly",
+      "Food",
+      "Workshops/Training",
+      "Politics",
+      "Fine Arts"
+    ],
+    "departments": [
+      "Student Life",
+      "Social Change",
+      "University Housing",
+      "Younkin Success Center",
+      "Campus Dining Services"
+    ],
+    "time_range": [
+      "2021,1,1,00,00,00",
+      "2021,12,31,23,59,59"
+    ],
+    "rsvp": true,
+    "tags": [
+      "Intercultural"
+    ]
+  }
+}
