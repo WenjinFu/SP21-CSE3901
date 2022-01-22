@@ -1,0 +1,82 @@
+
+professional_activities:
+  - {title: "Program committee Chair", organizer: SoCG,  time: "<a href=http://socg2012.web.unc.edu/> 2012 </a>, <a href=http://eecs.oregonstate.edu/socg19/index.html> 2019 </a>"}
+  - {title: "Program Committee", organizer: "NASAGEM" ,time: "<a href=http://www.welfenlab.de/archive/organizers/hcw07/the_conference/nasagem_workshop/index.html> 2007 </a>"}
+  - {title: "Program Committee", organizer: "ISAAC", time: "<a href=https://www.isical.ac.in/~isaac06/> 2006 </a>"}
+  - {title: "Program Committee", organizer: "Pacific Graphics ", time: "<a href=http://graphics.im.ntu.edu.tw/pg2006/> 2006 </a>"}
+  - {title: "Program Committee", organizer: "SPM ", time: "<a href=http://www.ce.washington.edu/sm04/> 2004 </a>, <a href=http://www.gvu.gatech.edu/~jarek/spm> 2005 </a>, <a href=http://ralph.cs.cf.ac.uk/SPM06.html> 2006 </a>, <a href=http://cg.cs.tsinghua.edu.cn/spm2007/> 2007 </a>, <a href=http://www.cs.sunysb.edu/spm08/> 2008 </a>, <a href=http://www.siam.org/meetings/gdspm09/> 2009 </a>, <a href=http://www.cs.technion.ac.il/spm2010/> 2010 </a>, 2011, <a href=http://spm12.u-bourgogne.fr/> 12 </a>, 2013, <a href=http://spring.mae.cuhk.edu.hk/~smi2014/index.html> 2014 </a>, <a href=http://www.siam.org/meetings/gdspm15/> 2015 </a>, <a href=https://s3pm.icsi.berkeley.edu/s3pm/spm.html> 2017 </a>"}
+  
+  - {title: "Program Committee", organizer: "SMI", time: "<a href=http://smism04.ge.imati.cnr.it/> 2004 </a>, <a href=http://www.shapemodeling.org/> 2005 </a>, 
+  <a href=http://www.ifs.tohoku.ac.jp/SMI06/> 2006 </a>, <a href=https://smi07.liris.cnrs.fr/> 2007 </a>, <a href=https://www.cs.stonybrook.edu/smi08/> 2008 </a>, <a href=http://cgcad.thss.tsinghua.edu.cn/SMI2009/> 2009 </a>,<a href=http://mdm.ge.imati.cnr.it/related-info/conferences-and-workshops/shape-modeling-international-2010> 2010 </a>, <a href=https://faculty.idc.ac.il/smi2011/> 2011 </a>, <a href=http://www.shapemodeling.org/> 2012 </a>, 2013, <a href=http://spring.mae.cuhk.edu.hk/~smi2014/index.html> 2014 </a>, <a href=http://www-rech.telecom-lille.fr/smi2015/> 2015 </a>, <a href=https://s3pm.icsi.berkeley.edu/s3pm/smi.html> 2017 </a>"}
+  - {title: "Program Committee", organizer: "Point Graphics", time: "<a href=https://cgl.ethz.ch/organizers/pbg/cfp.html> 2004 </a>, <a href=https://gfx.cs.princeton.edu/pbg05/> 2005 </a>, <a href=http://graphics.ethz.ch/PBG06/> 2006 </a>, 2007 <a href=https://cgl.ethz.ch/organizers/pbg/08/> 2008 </a>"}
+  - {title: "Program Committee", organizer: "3DPVT", time: "<a href=http://www.umiacs.umd.edu/conferences/3dpvt04/> 2004 </a>, <a href=http://www.cc.gatech.edu/conferences/3DPVT08/3DPVT%2008.html> 2008</a>"}
+  - {title: "Program committee", organizer: "SOCG 98", time: "<a href=http://www.cs.umd.edu/areas/Theory/socg03> 2003 </a>" }
+  - {title: "Program committee", organizer: "Solid Modeling", time: "<a href=http://www.ce.washington.edu/sm03/> 2003 </a>" }
+  - {title: "Program Committee", organizer: "SODA", time: " <a href=http://www.siam.org/meetings/da03> 2003 </a>, <a href=https://archive.siam.org/meetings/da14/> 2014 </a>"}
+  - {title: "Program committee", organizer: "FSTTCS", time: "95, 96, 97, 03"}
+  - {title: "Program committee", organizer: "WALCOM", time: "<a href=https://www.isical.ac.in/~walcom/> 2009 </a>" }
+  - {title: "Program Committee", organizer: "SGP", time: "<a href=http://sgp09.mi.fu-berlin.de/> 2009 </a>, <a href=http://sgp2010.liris.cnrs.fr/> 2010 </a>, <a href=http://sgp2011-lgg.epfl.ch/Home.html> 2011 </a>, <a href=http://www.ioc.ee/sgp12/> 2012 </a>, 2013 , <a href=http://www.cs.cf.ac.uk/sgp2014/> 2014 </a>, <a href=http://www.geometrie.tugraz.at/sgp2015/> 2015 </a>, <a href=http://www.geometrysummit.org/sgp2016/pc.html> 2016 </a>, <a href=http://geometry.cs.ucl.ac.uk/SGP2017/> 2017 </a>"}
+  - {title: "Program Committee", organizer: "ISVD", time: " 2009, <a href=http://bioinf.spbau.ru/isvd2013/> 2013 </a>"}
+  - {title: "Program Committee", organizer: "GMP ", time: "<a href=http://www.gmp2010.unican.es/> 2010 </a>, <a href=http://math.ustc.edu.cn/Conference/GMP2012/> 2012 </a> "}
+  - {title: "Program committee", organizer: "SoCG Video ", time: "<a href=http://www.sci.utah.edu/socg2010/> 2010 </a>" }
+  - {title: "Program committee", organizer: "TopoInfoVis", time: " <a href=http://www.topoinvis2011.ethz.ch/> 2011 </a>" }
+  - {title: "Program committee", organizer: "CAD graphics", time: "<a href=http://cadcg2011.sdu.edu.cn/> 2011 </a>" }
+  - {title: "Program committee", organizer: "EuroCG", time: "<a href=http://www.ibr.cs.tu-bs.de/alg/eurocg13/> 2013 </a>" }
+  - {title: "Program committee", organizer: "SWAT", time: "<a href=http://algolog.compute.dtu.dk/swat2014/> 2014 </a> "}
+  - {title: "Invited Talks", topic: "<a href=https://www.birs.ca/events/2018/5-day-workshops/18w5140> Multiparameter persistent homology</a>", program: "BIRS-CMO, Mexico", time: "August, 2018"}
+  - {title: "Invited Talks", topic: "<a href=https://dccg.upc.edu/irp2018/details-of-the-activities/il1/> Computational Topology and Data Analysis </a>", program: " Intensive Research Program in Discrete <li> Combinatorial and Computational Geometry, CRM, Spain </li> ", time: "2018"}
+  - {title: "Invited Talks", topic: "<a href=https://www.ima.umn.edu/~mlesnick/Mini_Symposium_2016.html> A tool for approximating the persisitence of Rips filtrations efficiently </a> <a href=http://www.cse.ohio-state.edu/~tamaldey/talk/SimBa/SimBa.pdf> [ talk slides ] </a>", program: " SoCG workshop on Compu. Topo", time: "2016"}
+  - {title: "Invited Talks", topic: "<a href=http://ist.ac.at/acat/> Multiscale Mapper </a> <a href=http://ist.ac.at/fileadmin/user_upload/events_pages/acat/ACAT2015_Tamal_Dey.pdf> [ talk slides ] </a>", program: "ACAT workshop, IST-Austria", time: "2015"}
+  - {title: "Invited Talks", topic: "<a href=https://projects.cs.dal.ca/cccg2014/programme.html> Computational topology in reconstruction </a> <a href=http://www.cse.ohio-state.edu/~tamaldey/talk/CCCG14/CCCG14.pdf> [ talk slides ] </a>", program: " mesh generation, and data analysis, Keynote in Canad. Conf. Computational Geometry", time: "2014"}
+  - {title: "Invited Talks", topic: "<a href=http://www.ima.umn.edu/2013-2014/W4.28-5.2.14/> Computing persistence for simplicial maps with application to data sparsification </a> <a href=http://www.cse.ohio-state.edu/~tamaldey/talk/simplicial-map/PersistenceForSimplicialMap.pdf> [ talk slides ] </a> ", program: " IMA workshop on Topology and Geomtry of Networks and Discrete Metric Spaces", time: "2014"}
+  - {title: "Invited Talks", topic: "<a href=http://www.ima.umn.edu/2013-2014/W10.28-11.1.13/> Graph Induced Complex </a> <a href=http://www.cse.ohio-state.edu/~tamaldey/talk/GIC/GIC.pdf> [ talk slides ] </a>", program: "IMA workshop on Modern application of homology and Cohomology,", time: "2013"}
+  - {title: "Invited Talks", topic: "<a href=http://zeus.mat.puc-rio.br/~socg2013/index.php/workshops/geometric-computing-challenges> Better handles and tunnels </a> <a href=http://www.cse.ohio-state.edu/~tamaldey/talk/HanTun/HanTun.ppt> [ talk slides ] </a>", program: "workshop  on geometric computing, SoCG", time: "2013"}
+  - {title: "Invited Talks", topic: "<a href=http://www.mfo.de/occasion/1218/www_view> Delaunay mesh generation </a> <a href=http://www.cse.ohio-state.edu/~tamaldey/talk/Delmesh/Delmesh.pptx> [ talk slides ] </a>", program: "Oberwolfach workshop on Triangulations", time: "2012"}
+  - {title: "Invited Talks", topic: "<a href=http://www.cse.ohio-state.edu/~tamaldey/talk/OpHom/OHCP-IAS.pdf> Computing homology cycles with certified geometry </a> <a href=http://www.cse.ohio-state.edu/~tamaldey/talk/OpHom/OHCP-IAS.pdf> [ talk slides ] </a>", program: "<a href=http://www.fields.utoronto.ca/programs/scientific/11-12/discretegeom/wksp_comptop/> Computational Topology workshop, Fields Institute </a> <li> <a href=http://www.math.ias.edu/seminars/abstract?event=43554> Institute of Advanced Studies, Princeton </a> </li>", time: "2011 & 2012"}
+  - {title: "Invited Talks", topic: "<a href=http://www.siam.org/meetings/gdspm11/invited.php> Computational geometry and topology meet geometric modeling </a> <a href=http://www.cse.ohio-state.edu/~tamaldey/talk/SIAM-GD11/SIAM-GD11.pptx> [ talk slides ] </a>", program: " SIAM-GD", time: "2011"}
+  - {title: "Invited Talks", topic: "<a href=http://www.sandia.gov/imr/Speakers.html> Delaunay refinement and its localization for meshing </a> <a href=http://www.cse.ohio-state.edu/~tamaldey/talk/IMR11/IMR11.pptx> [ talk slides ] </a>", program: "IMR", time: "2011"}
+  - {title: "Invited Talks", topic: "<a href=http://www.cse.iitd.ac.in/~amitk/walcom/> Geometry and topology from point cloud data </a> <a href=http://www.cse.ohio-state.edu/~tamaldey/paper/PCD/PCD.pdf> [ talk slides ] </a>", program: "WALCOM", time: " 2011"}
+  - {title: "Invited Talks", topic: "<a href=http://www.math.utk.edu/barrett/> Convergence, stability, and approximation of Laplace spectra </a> <a href=> [ talk slides ] </a>", program: "Discrete Differential Geometry workshop, U. Tennessee", time: "May 10"}
+  - {title: "Invited Talks", topic: "<a href=http://www.birs.ca/birspages.php?task=displayevent&event_id=09w5112> </a> Cut locus and topology from point data", program: "BIRS workshop on data analysis", time: "March 09"}
+  - {title: "Invited Talks", topic: "<a href=http://www.birs.ca/birspages.php?task=eventvideos&event_id=09w5119> </a> Lifting the curse of slivers from surface reconstruction (Video)", program: "BIRS workshop on Computational Mathematics on Discrete Surfaces", time: "February 09"}
+  - {title: "Invited Talks", topic: "<a href=http://cse.seas.wustl.edu/About/Events.asp?EventType=Colloquia&EventID=1343> </a> Computing handles and tunnels in 3D models <a href=http://www.cse.ohio-state.edu/~tamaldey/talk/ht.ppt> [ talk slides ] </a>", program: "Colloquium, WUSTL", time: "February 08"}
+  - {title: "Invited Talks", topic: "<a href=http://people.cs.uchicago.edu/~niyogi/conference/index.html> </a> Geometric and topological approaches to data analysis <a href=http://www.cse.ohio-state.edu/~tamaldey/paper/extract-manifold/talk.pdf> [ talk slides ] </a>", program: "UChicago and TTI workshop on geometry and data", time: "October, 2007"}
+  - {title: "Invited Talks", organizer: "<a href=http://www-sop.inria.fr/geometrica/collaborations/geotopal/> GeoTopAl </a> ", time: "2007"}
+  - {title: "Invited Talks", organizer: "<a href=http://www.isical.ac.in/~isaac06/> ISAAC  </a> ", time: "2006"}
+  - {title: "Invited Talks", topic: "<a href=http://www.lorentzcenter.nl/lc/web/2006/20060306/program.php3?wsid=169> Tessellations in the Sciences </a> <a href=> [ talk slides ] </a>", program: "Lorentz Center, Lieden Univ.,", time: " March 2006 "}
+  - {title: "Invited Talks", organizer: "<a href=http://www.research.att.com/~krishnas/fwcg05/> 15th Fall workshop on Computational Geometry,</a> ", time: "2005"}
+  - {title: "Invited Talks", organizer: "<a href=http://geometry.poly.edu/realworld/Seminars/tamal.html> Othmer Institute seminar,</a> ", time: "2005"}
+  - {title: "Invited Talks", organizer: "<a href=http://users.diag.uniroma1.it/algo02/> ALGO,</a> ", time: "2002"}
+  - {title: "Invited Talks", organizer: "<a href=http://www-sop.inria.fr/prisme/ECG/workshop/final> ECG Final Workshop</a> ", time: "2003"}
+  - {title: "Invited Talks", organizer: "<a href=http://archive.dimacs.rutgers.edu/Workshops/Surface/> DIMACS workshop on Surface Reconstruction</a>", time: "April 30 - May 2, 2003"}
+  - {title: "Invited Talks", organizer: "<a href=http://archive.dimacs.rutgers.edu/Workshops/CompAided/> DIMACS Workshop on Computer Aided Design and Manufacturing</a>", time: "October 7 - 9, 2003"}
+  - {title: "Invited Talks", topic: "<a href=http://www.math.uwo.ca/~jardine/at-cs.html> Conference on Algebraic Topological Methods in Computer Science</a> ", program: "Department of Mathematics, Stanford University", time: "July 30 - August 3, 2001"}
+  - {title: "Invited Talks", topic: " Colloquiam", program: "Department of Computer Science, Univ. of Notre Dame", time: "September, 2004"}
+  - {title: "Invited Talks", topic: " Workshop on Algorithm Engineering as a New Paradigm", program: "RIMS, Kyoto University, Kyoto, Japan", time: "Oct 30 - Nov 2, 2000"}
+  - {title: "Invited Talks", topic: " Solid Modeling Technology and Applications, SME", program: "Detroit, MI", time: "Nov. 16-17,  2000"}
+  - {title: "Co-Chair", organizer: "<a href=http://socg2012.web.unc.edu/> SoCG </a> ", time: "2012"}
+  - {title: "Editorial Board", organizer: "<ul> <li> <a href=http://www.springer.com/west/home/computer/computer+journals?SGWID=4-40100-70-1083392-0> Discrete & Comput. Geom </a> </li> <li> <a href=http://www.journals.elsevier.com/computational-geometry/> Computational Geometry Theory & Applications </a> </li> <li> <a href=http://jocg.org/index.php/jocg/index> Journal of Comput. Geom. </a> </li> 
+  <li> <a href=http://www.elsevier.com/wps/find/journaleditorialboard.reviewers/622839/editorialboard> Graphical Models</a> </li> <li> <a href=http://www.journals.elsevier.com/computer-aided-design/editorial-board/> CAD </a>", time: ""}
+  - {title: "Organizer", organizer: "<ul> <li> <a href=http://www.tgda.osu.edu/tgda-conf-osu.html>  TGDA@OSU 2016, conference on topology, geometry, and data analysis </a> </li> <li> <a href=http://zeus.mat.puc-rio.br/~socg2013/index.php/workshops/computational-topology-and-data-analysis> Workshop on Computational Topology and Data Analysis</a> </li> <li> <a href=http://www.siam.org/meetings/gd03/program.htm> Mini-symposium on Geometric modeling with point samples, SIAM Geometric Design, 2003. </a> </li> 
+  <li> <a href=http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=4865> Mini-Symposium on  Delaunay Meshing of Surfaces and Volumes, SIAM Geometric Design, 2005. </a> </li> <li> <a href=http://www.cse.ohio-state.edu/~tamaldey/sr-challenge.ppt> DIMACS Surface Reconstruction Implementation Challenge, 2003.</a>", time: ""}
+  
+  
+  - {title: "Guest Editor", organizer: "<ul> <li><a href=http://www.cs.ust.hk/faculty/scheng/ijfcs.html> Special issue of IJFCS </a> </li> </ul> ", time: ""} 
+  - {title: "Executive Board", organizer: "<a href=http://solidmodeling.org/layout.php?nextlink=executives>  Solid Modeling Association </a> ", time: "2008-2011"} 
+  - {title: "Steering Committee", organizer: "<a href=http://www.imr.sandia.gov/>  11th Meshing Roundtable</a> ", time: "2002"} 
+  - {title: "Advisory Committee", organizer: "<a href=http://www.simplex.t.u-tokyo.ac.jp/~vd2004>  International Symposium on Voronoi Diagrams in Science and Engineering</a> ", time: ""} 
+  - {title: "Organizer", organizer: "<ul> <li> Summer school on Delaunay Mesh Generation</li> <ul> <li> 2009, RWTH, Aachen, Germany </li> </ul> <li> <a href=http://www.mpi-sb.mpg.de/adfocs> 7th Max-Planck Advanced Course on Foundations of Computer Science, ADFOCS06</a> August 2006 </li> <li> <a href=http://conference.ieem.ust.hk/~cadcg05/tutorials.htm> Surface and Volume meshing </a> </li> <ul> <li> CAD/Graphics 2005, Hong-Kong </ul> </li>
+  <li> <a href=http://www.siam.org/meetings/gd05/> Reconstruction and feature extraction from point cloud data with mathematical reasoning</a> </li> <ul> <li>  SIAM conference on Geometric Design, Phoenix", time: "2005"}
+
+
+
+  
+  
+  # - {title: "Invited Talks", topic: "<a href=> </a> <a href=> [ talk slides ] </a>", program: "", time: ""}
+  # #  - {title: "Program Committee", time: "Point Graphics <a href=> </a>, <a href=>  </a>, <a href=>  </a>, <a href=> </a>"}
+
+
+
+
+
+    

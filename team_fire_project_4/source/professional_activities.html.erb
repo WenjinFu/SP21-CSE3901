@@ -1,0 +1,33 @@
+---
+title: "Professional Activities"
+---
+<%= partial "navbar" %>
+
+<%# Create a table for professional activities.  #%>
+<h1>Professional Activities</h1>
+<div id = 'Professional Activities'>
+    <table>
+        <%# Embed table headers in a row of their own  #%>
+        <tr>
+            <th>Position</th>
+            <th>Organizer</th>
+            <th>Time</th>
+        </tr>
+        <% data.professional_activities.professional_activities.each do |n| %>
+            <tr>
+                <td> <%= n["title"] %> </td>
+                <td> <% if n["organizer"].nil? %>                   
+                    <%= n["topic"] %> 
+                        <ul> <li> <%= n["program"] %> </li> </ul> 
+                    <% else %>
+                        <%= n["organizer"] %> 
+                    <% end %> 
+                </td>
+
+                <td> <%= n["time"] %> </td>
+            </tr>
+            <%end%>
+        
+    </table>
+</div>
+

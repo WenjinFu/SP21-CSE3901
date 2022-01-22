@@ -1,0 +1,109 @@
+---
+title: "Research"
+---
+
+<%= partial "navbar" %>
+
+<h1>Research</h1>
+<h2>
+<p>I belong to <a href="https://cse.osu.edu/directory/categories/research_area/theory--algorithms">Theory</a>, <a href="https://cse.osu.edu/directory/categories/research_area/computer-graphics">Graphics</a>, and <a href="https://research.math.osu.edu/tgda/">TGDA</a>  (topology, geometry, data analysis) groups at OSU</p>
+</h2>
+
+<h1><b>Personnel</b></h1>
+
+<ul>
+<li><b>Current</b></li>
+<% data.personnel.current.each { |person| %>
+    <% if !(person.personal_link.nil?)%>
+        <li><%=link_to(person.name,person.personal_link)%>, 
+    <% else %>
+        <li><%= person.name %>, 
+    <%end%>
+    <%= person.degree %></li>
+<% } %>
+
+<li><b>Past</b></li>
+<% data.personnel.past.each { |person| %>
+    <% if !(person.personal_link.nil?)%>
+        <li><%=link_to(person.name,person.personal_link)%>, 
+    <% else %>
+        <li><%= person.name %>, 
+    <%end%>
+    <% if !(person.location.nil?)%>
+        <%= person.degree %>, 
+        <%=person.location%>
+    <%else%>
+        <%= person.degree %>
+    <%end%>
+    </li>
+<% } %>
+
+</ul>
+
+<h1><b>Projects</b></h1>
+
+<ul>
+<% data.projects.projects.each { |project| %>
+    <% if !(project.project_link2.nil?)%>
+        <li><h4><%=link_to(project.project_name,project.project_link)%> 
+            <%=link_to(project.project_name2,project.project_link2)%></h4>
+    <% elsif (!(project.project_link.nil?))&&(project.project_link2.nil?)%>
+        <li><h4><%=link_to(project.project_name,project.project_link)%></h4>
+    <% else %>
+        <li><h4><%= project.project_name %></h4>
+    <%end%>
+    </li>
+
+    <% if !(project.project_detail.nil?)%>
+        <% project.project_detail.each { |detail| %>
+            <% if !(detail.detail_link.nil?)%>
+                    <li><b><%=link_to(detail.detail_name,detail.detail_link)%></b>
+            <% else %>
+                    <li><b><%= detail.detail_name %></b>
+            <%end%>
+                    <% if !(detail.detail_step.nil?)%>
+                        <% detail.detail_step.each { |step| %>
+                            <% if !(step.step_link.nil?)%>
+                                <li>- <%=link_to(step.step_name,step.step_link)%>
+                            <% else %>
+                                <li>- <%= step.step_name %>
+                            <%end%>
+                        </li>
+                        <% } %> 
+                    <%end%>
+        </li>
+        <% } %> 
+    <%end%>      
+<% } %>
+</ul>
+
+<h1><b>Software</b></h1>
+
+<ul>
+<% data.software.software.each { |software| %>
+    <li><h4>
+    <% software.software_name.each { |software_name_separate| %>
+        <% if !(software_name_separate.software_link.nil?)%>
+                <%=link_to(software_name_separate.software_name,software_name_separate.software_link)%>
+        <% else%>
+            <%= software_name_separate.software_name%>
+        <%end%>
+    <% } %>
+    </h4></li>
+
+    <% if !(software.software_detail.nil?)%>
+        <% software.software_detail.each { |software_detail_separate| %>
+            <li>
+            <% software_detail_separate.detail_step.each { |step_separate| %>
+                <% if !(step_separate.step_link.nil?)%>
+                        <%=link_to(step_separate.step_name,step_separate.step_link)%>
+                <% else%>
+                    <%= step_separate.step_name%>
+                <%end%>
+            <% } %>
+            </li>
+        <% } %>
+    <%end%>
+
+<% } %>
+</ul>

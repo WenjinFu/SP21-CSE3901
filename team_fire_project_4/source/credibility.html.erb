@@ -1,0 +1,35 @@
+---
+title: "Books, Publications, and Education"
+---
+<%= partial "navbar" %>
+
+<%# Section describes books published. Iterates over each book as described in data, writes HTML content. %>
+<h1>Literature</h1>
+<% data.books.books.each { |book| %>
+    <h5><%=book.title%></h5>
+    <p><%=book.author%></p>
+    <p>Published by <%="#{book.publisher}, #{book.pub_date}"%></p>
+    <% book.links.each { |link| %>
+        <%= link_to(link.text, link.href) %>
+    <% } %>
+<% } %>
+
+<%#Essentially straight static HTML. Basically a 1 to 1 recreation of the whole publications section as it appeared on original site.%>
+<h1>Publications</h1>
+<%=link_to("For book chapters and papers visit Publications", "https://www.cs.purdue.edu/homes/tamaldey/papers.html")%>
+
+<%# Section describes degrees acquired. Iterates over each degree/stint as described in data, then writes HTML content. %>
+<h1>Education</h1>
+<table>
+    <th>Degree</th>
+    <th>School</th>
+    <th>Timespan</th>
+    <% data.education.stints.each { |stint| %>
+        <tr> 
+            <td> <%= stint.type %> </td>  
+            <td> <%= stint.school %> </td>
+            <td> <%= stint.years %> </td>
+        </tr>
+    <% } %>
+</table>
+

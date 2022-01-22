@@ -1,0 +1,18 @@
+---
+books:
+- title: 'Curve and Surface Reconstruction : Algorithms with Mathematical Analysis'
+  author: Tamal. K. Dey
+  publisher: Cambridge University Press
+  pub_date: October 2006
+  links:
+  - text: Preface and Contents
+    href: http://www.cse.ohio-state.edu/~tamaldey/book/recon/preface.pdf
+  - text: Two chapters
+    href: http://www.cse.ohio-state.edu/~tamaldey/book/recon/chapter3and4.pdf
+- title: Delaunay Mesh Generation
+  author: Siu-Wing Cheng, Tamal K. Dey, Jonathan R. Shewchuk
+  publisher: CRC Press
+  pub_date: December 2012
+  links:
+  - text: Details including sample chapters
+    href: http://www.cse.ohio-state.edu/~tamaldey/meshbook.html

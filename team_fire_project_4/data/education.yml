@@ -1,0 +1,19 @@
+---
+# There are only four education stints so far, unless 
+#   he goes for another PostDoc or something
+stints:
+  - type: "Post Doctorate"
+    school: "U. of Illinois, U-C"
+    years: "1991-1992"
+  - type: "PhD"
+    school: "Purdue University"
+    years: "1988-1991"
+  - type: "M.E."
+    school: "IISC, Bangalore"
+    years: "1985-1987"
+  - type: "B.E."
+    school: "Jadavpur University, Calcutta"
+    years: "1981-1985"
+
+
+...

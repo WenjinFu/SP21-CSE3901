@@ -1,0 +1,167 @@
+---
+software:
+- software_name:
+  - software_name: Reconstruction
+  software_detail:
+  - detail_step:
+    - step_name: Cocone
+      step_link: https://web.cse.ohio-state.edu/~dey.8/cocone.html
+    - step_name: ": Software for surface reconstruction based on "
+    - step_name: paper.
+      step_link: https://web.cse.ohio-state.edu/~dey.8/paper/undsamp/paper.pdf.gz
+  - detail_step:
+    - step_name: AMLS
+      step_link: https://web.cse.ohio-state.edu/~dey.8/amls.html
+    - step_name: " software for noisy point cloud smoothing based on "
+    - step_name: paper
+      step_link: http://www.cse.ohio-state.edu/~tamaldey/paper/amls/amls-extend.pdf
+    - step_name: "."
+  - detail_step:
+    - step_name: SingularCocone
+      step_link: https://web.cse.ohio-state.edu/~dey.8/SingularCocone/singularcocone.html
+    - step_name: " software for reconstructing surfaces with singular features"
+  - detail_step:
+    - step_name: Peel
+      step_link: https://web.cse.ohio-state.edu/~dey.8/Peel.html
+    - step_name: " software for reconstructing surfaces with boundaries based on "
+    - step_name: paper
+      step_link: http://www.cse.ohio-state.edu/~tamaldey/paper/recon-bound/boundary.pdf
+- software_name:
+  - software_name: Meshing
+  software_detail:
+  - detail_step:
+    - step_name: DelPSC
+      step_link: https://web.cse.ohio-state.edu/~dey.8/delpsc.html
+    - step_name: ": software for Delaunay meshing of surfaces, volumes, complexes
+        based on "
+    - step_name: paper
+      step_link: https://web.cse.ohio-state.edu/~dey.8/paper/delpsc/imr07.pdf
+    - step_name: ", "
+    - step_name: talk slides
+      step_link: http://www.cse.ohio-state.edu/~tamaldey/paper/delpsc/delpsc.ppt
+    - step_name: ", ["
+    - step_name: video
+      step_link: https://web.cse.ohio-state.edu/~dey.8/delpsc/video/
+    - step_name: "]"
+  - detail_step:
+    - step_name: LocPSC
+      step_link: http://www.cse.ohio-state.edu/~tamaldey/locpsc.html
+    - step_name: ": Localized version of DelPSC, runs faster. based on"
+    - step_name: paper
+      step_link: http://www.cse.ohio-state.edu/~tamaldey/paper/locpsc/locpsc.pdf
+    - step_name: "."
+  - detail_step:
+    - step_name: Qualmesh
+      step_link: https://web.cse.ohio-state.edu/~dey.8/qualmesh.html
+    - step_name: ": Software for quality Delaunay meshing of polyhedra based on "
+    - step_name: paper
+      step_link: http://www.cse.ohio-state.edu/~tamaldey/paper/qualmesh/qualmesh.pdf
+    - step_name: "."
+  - detail_step:
+    - step_name: SurfRemesh
+      step_link: https://web.cse.ohio-state.edu/~dey.8/surfremesh.html
+    - step_name: ": software for Delaunay meshing of polygonal surfaces based on "
+    - step_name: paper
+      step_link: http://www.cse.ohio-state.edu/~tamaldey/paper/remesh/remesh.pdf
+    - step_name: "."
+  - detail_step:
+    - step_name: DelIso
+      step_link: https://web.cse.ohio-state.edu/~dey.8/deliso.html
+    - step_name: ": software for Delaunay meshing of isosurfaces"
+  - detail_step:
+    - step_name: LocDel
+      step_link: https://web.cse.ohio-state.edu/~dey.8/locdel-soft.html
+    - step_name: " software for generating large Delaunay meshes"
+- software_name:
+  - software_name: Homology Features
+  software_detail:
+  - detail_step:
+    - step_name: 'HanTun '
+      step_link: https://web.cse.ohio-state.edu/~dey.8/hantun.html
+    - step_name: 'software for computing handle and tunnel loops on surfaces based
+        on '
+    - step_name: paper
+      step_link: http://www.cse.ohio-state.edu/~tamaldey/paper/hantun-persist/hantun.pdf
+    - step_name: " ["
+    - step_name: video
+      step_link: http://www.cse.ohio-state.edu/~tamaldey/paper/hantun-persist/hantun-sig2008.mov
+    - step_name: "]"
+  - detail_step:
+    - step_name: ReebHanTun
+      step_link: https://web.cse.ohio-state.edu/~dey.8/handle/ReebHanTun-download/reebhantun.html
+    - step_name: "  software for handle and tunnel loops that does not require 3D
+        tessellation,"
+    - step_name: paper
+      step_link: http://www.cse.ohio-state.edu/~tamaldey/paper/reeb-hantun/reeb-hantun.pdf
+    - step_name: ", "
+    - step_name: web-page
+      step_link: http://www.cse.ohio-state.edu/~tamaldey/handle/hantun.html
+  - detail_step:
+    - step_name: ShortLoop
+      step_link: http://www.cse.ohio-state.edu/~tamaldey/shortloop.html
+    - step_name: 'software for computing loops in a shortest homology basis based
+        on '
+    - step_name: paper
+      step_link: http://www.cse.ohio-state.edu/~tamaldey/paper/pcdloop/pcdloop.pdf
+    - step_name: "."
+  - detail_step:
+    - step_name: PersLoop
+      step_link: http://web.cse.ohio-state.edu/~dey.8/PersLoop/
+    - step_name: " software for persistent  1-cycles"
+- software_name:
+  - software_name: Data Sparsification
+  software_detail:
+  - detail_step:
+    - step_name: GIC software
+      step_link: https://web.cse.ohio-state.edu/~dey.8/GIC/GICsoftware/
+  - detail_step:
+    - step_name: SimpPers software
+      step_link: https://web.cse.ohio-state.edu/~dey.8/SimPers/Simpers.html
+    - step_name: "(computes persistence for simplicial maps)"
+  - detail_step:
+    - step_name: SimBa software
+      step_link: http://web.cse.ohio-state.edu/~dey.8/SimBa/Simba.html
+    - step_name: "(computes persistence of Rips filtration efficiently)"
+- software_name:
+  - software_name: Shape features
+  software_detail:
+  - detail_step:
+    - step_name: Medial
+      step_link: https://web.cse.ohio-state.edu/~dey.8/cocone.html
+    - step_name: ": Software for 3D medial axis based on "
+    - step_name: paper
+      step_link: https://web.cse.ohio-state.edu/~dey.8/paper/medial/medial-ex.pdf
+  - detail_step:
+    - step_name: SegMatch
+      step_link: https://web.cse.ohio-state.edu/~dey.8/segmatch.html
+    - step_name: ": Software for shape segmentation and shape matching based on "
+    - step_name: paper
+      step_link: https://web.cse.ohio-state.edu/~dey.8/paper/matching/feature.pdf
+  - detail_step:
+    - step_name: NormFet
+      step_link: https://web.cse.ohio-state.edu/~dey.8/normfet.html
+    - step_name: " software for normal and feature size estimation from point cloud
+        based on "
+    - step_name: paper
+      step_link: http://www.cse.ohio-state.edu/~tamaldey/paper/norfet/paper.pdf
+    - step_name: "."
+  - detail_step:
+    - step_name: CurveSkel
+      step_link: https://web.cse.ohio-state.edu/~dey.8/cskel.html
+    - step_name: " software for curve skeleton of 3D shapes based on "
+    - step_name: paper
+      step_link: http://www.cse.ohio-state.edu/~tamaldey/paper/curve-skeleton/cskel.pdf
+    - step_name: "."
+- software_name:
+  - software_name: Gathan software for curve reconstruction
+    software_link: https://www.cse.ohio-state.edu/graphics/research/CurveRecon/gathan.tar
+  - software_name: " based on "
+  - software_name: paper.
+    software_link: http://www.cse.ohio-state.edu/~tamaldey/paper/sharp/paper.ps.gz
+- software_name:
+  - software_name: Nearest neighbor curve reconstruction Applet
+    software_link: http://www.cse.ohio-state.edu/~tamaldey/Crust/
+  - software_name: " based on "
+  - software_name: paper
+    software_link: http://www.cse.ohio-state.edu/~tamaldey/paper/curve/paper.ps.gz
+  - software_name: " and a topology clean up."

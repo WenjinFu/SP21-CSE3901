@@ -1,0 +1,23 @@
+---
+title: "Tamal Krishna Dey"
+---
+<%= partial 'navbar' %>
+
+<%= partial 'homepage' %>
+
+<h1>Previously Taught Classes</h1>
+<table>
+    <% data.teaching.teaching.each do |c| %>
+      <tr> 
+        <% if c["link"].nil? %>
+          <td><%= c["class"] %> </td>
+        <% else %>
+          <td>
+            <a href = "<%= c["link"]%>">
+              <%= c["class"] %> </td>
+            </a>
+          </td>
+      </tr>
+      <%end%>
+    <%end%>
+</table>

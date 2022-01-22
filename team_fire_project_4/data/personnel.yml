@@ -1,0 +1,116 @@
+current:
+    -
+        name: "Jiayuan Wang"
+        degree: "PhD"
+    -
+        name: "Tianqi Li"
+        degree: "PhD"
+    -
+        name: "Sayan Mandal"
+        degree: "PhD"
+        personal_link: "http://web.cse.ohio-state.edu/~mandal.25/"
+    -
+        name: "Cheng Xin"
+        degree: "PhD"
+    -
+        name: "Ryan Slechta"
+        degree: "PhD"
+        personal_link: "http://web.cse.ohio-state.edu/~slechta.3/"
+    -
+        name: "Tao Hou"
+        degree: "PhD"
+    -
+        name: "Soham Mukherjee"
+        degree: "PhD"
+
+#-
+#        name: ""
+#        degree: ""
+#        personal_link: ""
+
+past:
+    -
+        name: "Alfred Rossi"
+        degree: "post-doc"
+    -
+        name: "Mickael Buchet"
+        degree: "post-doc"
+        location: "currently at Tohoku Univ., Japan"
+    -
+        name: "Ramsay Dyer"
+        degree: "post-doc"
+        location: "currently at INRIA,France"
+        personal_link: "http://www.cs.sfu.ca/~rhdyer/personal/"
+    -
+        name: "Hyuckje Woo"
+        degree: "Post-doc"
+        location: "Prof. KINST, Korea"
+    -
+        name: "Joachim Giesen"
+        degree: "Post-doc"
+        location: "Prof. U. Jena, Germany"
+        personal_link: "http://www.mpi-inf.mpg.de/~jgiesen"
+    -
+        name: "Dayu Shi"
+        degree: "PhD"
+        location: "Google"
+    -
+        name: "Lei Wang"
+        degree: "Phd"
+        location: "Google"
+        personal_link: "http://web.cse.ohio-state.edu/~wangle/"
+    -
+        name: "Andrew Slatton"
+        degree: "Phd"
+        personal_link: "http://web.cse.ohio-state.edu/~slatton/"
+    -
+        name: "Fengtao Fan"
+        degree: "Phd"
+        location: "Google"
+    -
+        name: "Oleksiy Busaryev"
+        degree: "PhD"
+        location: "Google"
+        personal_link: "http://www.cse.ohio-state.edu/~busaryev"
+    -
+        name: "Kuiyu Li"
+        degree: "PhD"
+        location: "post-doc at Texas A&M"
+        personal_link: "http://staff.cse.tamu.edu/kuiyu/"
+    -
+        name: "Pawas Ranjan"
+        degree: "PhD"
+    -
+        name: "Joshua Levine"
+        degree: "PhD"
+        location: "post-doc at U. Utah, Prof. U. of Arizona"
+        personal_link: "https://jalevine.bitbucket.io/"
+    -
+        name: "Jian Sun"
+        degree: "PhD"
+        location: "post-doc at Stanford and Princeton, Prof. Tsinghua U., China"
+        personal_link: "http://www.cse.ohio-state.edu/~sunjia"
+    -
+        name: "Tathagata Ray"
+        degree: "PhD"
+        location: "Prof. BITS, Pilani,India"
+        personal_link: "https://www.cse.ohio-state.edu/~rayt"
+    -
+        name: "Samrat Goswami"
+        degree: "PhD"
+        location: "post-doc at UT-Austin"
+        personal_link: "http://www.ices.utexas.edu/~samrat"
+    -
+        name: "Wulue Zhao"
+        degree: "PhD"
+    -
+        name: "James Hudson"
+        degree: "PhD"
+        location: "Prof. at Swansee U."
+    -
+        name: "Naveen Leekha"
+        degree: "Masters"
+        location: "NVIDA"
+    -
+        name: "Luke Molnar"
+        degree: "Masters"

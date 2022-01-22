@@ -1,0 +1,62 @@
+---
+projects:
+- project_name: Computational Geometry and Topology in Geometric Modeling and Graphics
+  project_link: http://www.cse.ohio-state.edu/~tamaldey/geohome.html
+  project_detail:
+  - detail_name: Reconstruction
+    detail_step:
+    - step_name: Curve reconstruction
+      step_link: https://web.cse.ohio-state.edu/~dey.8/curverecon.htm
+    - step_name: Surface reconstruction
+      step_link: https://web.cse.ohio-state.edu/~dey.8/surfrecon.htm
+    - step_name: Non-smooth, non-manifold surface reconstruction
+      step_link: https://web.cse.ohio-state.edu/~dey.8/SingularCocone/singularcocone.html
+    - step_name: Boundary reconstruction
+      step_link: https://web.cse.ohio-state.edu/~dey.8/isotopic.html
+  - detail_name: Meshing
+    detail_link: https://web.cse.ohio-state.edu/~dey.8/mesh.html
+    detail_step:
+    - step_name: Polyhedra
+      step_link: http://www.cse.ohio-state.edu/~tamaldey/mesh-volume.html
+    - step_name: Smooth surface
+      step_link: https://web.cse.ohio-state.edu/~dey.8/mesh-smooth.html
+    - step_name: Remeshing
+      step_link: https://web.cse.ohio-state.edu/~dey.8/mesh-smooth.html
+    - step_name: Isosurface
+      step_link: https://web.cse.ohio-state.edu/~dey.8/mesh-iso.htm
+    - step_name: Piecewise smooth complexes
+      step_link: https://web.cse.ohio-state.edu/~dey.8/mesh-psc.html
+    - step_name: Localized Delaunay refinement
+      step_link: https://web.cse.ohio-state.edu/~dey.8/LocDel.html
+  - detail_name: Homology features
+    detail_step:
+    - step_name: Handle and tunnel loops
+      step_link: https://web.cse.ohio-state.edu/~dey.8/handle/hantun.html
+    - step_name: Shortest homology bassis
+      step_link: https://web.cse.ohio-state.edu/~dey.8/homology.html
+    - step_name: Optimal homologous cycles
+      step_link: https://web.cse.ohio-state.edu/~dey.8/homology.html
+  - detail_name: Shape features
+    detail_step:
+    - step_name: Medial axis
+      step_link: https://web.cse.ohio-state.edu/~dey.8/medialaxis.htm
+    - step_name: Curve skeletons
+      step_link: https://web.cse.ohio-state.edu/~dey.8/cskel.html
+    - step_name: Dimension detection
+      step_link: https://web.cse.ohio-state.edu/~dey.8/dimensiondetection.htm
+    - step_name: Shape segmentation and matching
+      step_link: https://web.cse.ohio-state.edu/~dey.8/segmentation.html
+    - step_name: Normal and feature approximation
+      step_link: https://web.cse.ohio-state.edu/~dey.8/normfet.html
+  - detail_name: Data sparsification
+    detail_step:
+    - step_name: Graph Induced complex
+      step_link: https://web.cse.ohio-state.edu/~dey.8/GIC/gic.html
+  - detail_name: Simplification
+    detail_link: https://web.cse.ohio-state.edu/~dey.8/decim.htm
+- project_name: Computational and combinatorial geometry
+  project_link: https://web.cse.ohio-state.edu/~dey.8/geometry-papers.htm
+- project_name: Computational topology
+  project_link: https://web.cse.ohio-state.edu/~dey.8/topology-papers.htm
+  project_name2: " (NSF report)"
+  project_link2: https://web.cse.ohio-state.edu/~dey.8/isotopic.html

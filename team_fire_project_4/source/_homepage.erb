@@ -1,0 +1,24 @@
+<header class="homepage">
+  <img class="photo" src=".<%= url_for './images/tamaldey.png' %>" alt="Tamal K Dey">
+  <h1><%= config[:site_title] %></h1>
+  <h2><%= config[:site_subtitle] %></h2>
+</header>
+<hr>
+<p><%= config[:homepage_text] %></p>
+
+<div id="otherthings">
+  <table>
+    <tr>
+      <td><a href="mailto:tamaldey@cse.ohio-state.edu<%= config[:osu] %>"><span class="icofont-envelope"></span>tamaldey@cse.ohio-state.edu</a></td>
+      <td></td>
+      <td><a href="mailto:tamaldey@purdue.edu<%= config[:purdue] %>"><span class="icofont-envelope"></span>tamaldey@purdue.edu</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://www.acm.org/media-center/2018/december/fellows-2018<%= config[:acm] %>"><span class="icofont-code"></span>ACM Fellow</a></td>
+      <td><a class="otherthings-link" href="https://www.computer.org/web/pressroom/CS-Fellows-2017<%= config[:IEEE] %>"><span class="icofont-bulb-alt"></span>IEEE Fellow</a></td>
+      <td><a class="otherthings-link" href="http://solidmodeling.org/awards/sma-fellows/sma-fellows-2019/<%= config[:SMA] %>"><span class="icofont-spreadsheet"></span>SMA Fellow</a></td>
+    </tr>
+  </table>
+</div>
+
+
