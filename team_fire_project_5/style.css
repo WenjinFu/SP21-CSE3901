@@ -1,0 +1,379 @@
+/* Reset */
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{border:0;font-size:100%;font:inherit;vertical-align:baseline;margin:0;padding:0}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}body{line-height:1}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:none}table{border-collapse:collapse;border-spacing:0}
+*, *:before, *:after { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
+
+.hidden { display: none; }
+
+#game_fixed_buttons {
+
+  display: grid;
+  width: 750px;
+  height: 50px;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 1rem;
+  margin: auto; /* Centers the grid within the parent */
+
+}
+
+.game_fixed_button {
+
+  justify-content: right;
+  color: #1376d3; 
+  width: 100%;
+  height: 50px;
+  font-weight: 500;
+  font-size: large;
+
+}
+
+#game_player_list {
+
+  margin: auto; /* Centers the grid within the parent */
+  width: 900px;
+
+}
+
+#game_player_list th, #game_player_list td {
+  width: 50%; /* Give the columns equal spacing: half and half each */
+  text-align: center; /* Center the content of each td/td within the table cell */
+}
+
+#game_whole_table {
+
+  margin: auto;
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 3fr 1fr;
+  gap: 1rem;
+
+}
+
+.game_table_side {
+
+  margin: auto;
+  width: 100%;
+  height: 500px;
+  display: grid;
+  grid-template-rows: 1fr 1fr 1fr;
+  gap: 1fr;
+  justify-content: center;
+
+}
+
+.game_table_side p {
+
+  text-align: center; /* Left-right align the text within its part of the grid */
+  align-self: center; /* Up-down align the text within its part of the grid */
+  font-size: 30pt;
+
+}
+
+.game_table_side img {
+
+  width: 50%; /* We don't need super huge images*/
+  margin: auto; /* Center the image within it's portion of the grid */
+
+}
+
+#game_face_up_cards {
+  
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 1fr;
+  justify-items: center;
+
+}
+
+#game_face_up_cards img {
+
+  width: 250px;
+  border: 5px solid gray; /* Start with all images not checked */
+
+}
+
+#game_face_up_cards input {
+
+  display: none; /* Hide the checkboxes */
+
+}
+
+#pregame {
+  
+  /* Compress the instructions to make them more readable */
+  padding-left: 175px;
+  padding-right: 175px;
+
+}
+
+#pregame li {
+
+  padding-top: 10px;
+  padding-bottom: 10px;
+
+}
+
+#startbuttonid, #playagainbuttonid {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: 50px;
+  display: flex;
+  justify-content: center;
+  padding: 0.4em 1.6em;
+  border-radius: 2em;
+  border-style:unset;
+  /*box-sizing: border-box;*/
+  text-decoration: none;
+  font-weight: 500;
+  font-size: medium;
+  color: #FFFFFF;
+  
+  
+}
+
+#startbuttonid {
+  background-color: #1376d3;
+}
+
+#playagainbuttonid {
+  background-color: #ce2828;
+}
+
+#startbuttonid:active, #playagainbuttonid:active, #click1id:active, #click2id:active, #click3id:active, #player_buttons:active {
+  background-color: #b9b4c4;
+  
+}
+
+#startbuttonid:disabled {
+  background-color: #b9b4c4;
+  
+}
+
+#player_buttons {
+  font-weight: 300;
+  font-size: medium;
+  color: #1376d3;
+  border-color: #cac7cf;
+  background-color: #FFFFFF;
+  border-radius: 0.5em;
+  border-style: solid;
+  padding: 0.4em 1.6em;
+}
+
+#click1id, #click2id, #click3id {
+  font-weight: 500;
+  background-color: #1376d3;
+  color: #FFFFFF;
+  
+  border-style:none;
+  border-radius: 0.5em;
+
+}
+
+
+/* Spacing */
+h1, h2, h3, h4, h5, p, ul, pre {
+  margin-bottom: 20px;
+}
+
+
+/* Base */
+html, body { max-height: 100%; width: 100%; padding: 35px;}
+html {margin: auto;}
+
+body {
+  font: 16px/1 "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #666;
+  text-align: left;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+
+  
+}
+
+
+.center {
+    margin: auto;
+    width: 50%;
+    padding-left: 100px;
+}
+
+img.photo {
+  border-radius: 50%;
+  box-shadow: 0 0 0 2px #fff, 0 0 0 4px #bbb;
+}
+
+
+
+
+/* Typography */
+/*Accent color*/
+a,
+#title,
+a:hover,
+#title:hover {
+  text-decoration: none;
+  color: #6b0909;
+}
+
+a:hover {text-decoration: underline}
+
+p a { color: #6b0909; }
+
+ul { padding-left: 10em; }
+
+
+b, strong { font-weight: 500;}
+
+em, i { font-style: italic; }
+
+#title {
+  display: inline-block;
+  line-height: 100%;
+  font-weight: 500;
+  font-size: 19px;
+  margin: 0;
+  padding-bottom: 20px;
+}
+
+header {
+  text-align:center;
+  max-width: 580px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 40px;
+}
+
+h1 {
+  font: 300 50px/1.4em "Helvetica Neue",Helvetica,Arial,sans-serif;
+  color:  #1376d3;
+  text-align: center;
+}
+
+h2 {
+  font: 300 34px/1.5 "Helvetica Neue",Helvetica,Arial,sans-serif;
+  margin-top: 10px;
+}
+
+h2, h3, h4, h5 { color: #1376d3; text-align: center;}
+
+h3 { font-size:20px; font-weight: 400; }
+h4 { font-size:16px; font-weight: bold; text-align: left;}
+h5 { font-size:15px; font-weight: bold; text-align: left;}
+
+h6 {
+  font-size: 13px;
+  font-weight: bold;
+  color: #666;
+  margin-bottom: 6px;
+}
+
+p.small {
+  color: #bbb;
+  font-size: 14px;
+  display: block;
+}
+
+p {
+  text-align: center;
+}
+
+blockquote {
+  padding-left: 15px;
+  border-left: 3px solid #eee;
+}
+
+hr {
+  display: block;
+  border: none;
+  height: 1px;
+  margin: 40px auto;
+  background: #eee;
+}
+
+:not(pre) > code {
+  font-family: Menlo, 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', Consolas, 'Liberation Mono', monospace;
+  /*border: 1px solid #ddd;*/
+  padding: 3px;
+  background-color: #fdfdfd;
+  font-size: 14px;
+  border-radius: 3px;
+}
+
+pre	{
+  font-family: Menlo, 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', Consolas, 'Liberation Mono', monospace;
+  /*border: 1px solid #ddd; */
+  padding: 20px;
+  background-color: #fdfdfd;
+  font-size: 14px;
+  border-radius: 3px;
+  white-space: pre-wrap;
+  overflow: auto;
+}
+
+table {
+  width: 100%;
+  margin: 40px 0;
+  border-collapse: collapse;
+  font-size: 16px;
+  line-height: 1.5em;
+}
+
+th,td {
+  text-align: left;
+  padding-right: 20px;
+  vertical-align: top;
+}
+
+table td,td {
+  border-spacing: none;
+  border-style: solid;
+  padding: 10px 15px;
+  border-width: 1px 0 0 0;
+}
+
+tr>td {
+  border-top: 1px solid #eaeaea;
+}
+
+tr:nth-child(odd)>td {
+  background: #fcfcfc;
+}
+
+thead th,th {
+  text-align: left;
+  padding: 10px 15px;
+  height: 20px;
+  font-size: 15px;
+  font-weight: bold;
+  color: #666;
+  border-bottom: 1px solid #eee;
+  cursor: default;
+  white-space: nowrap;
+}
+
+img {
+  width: 100%;
+  max-width: 100%;
+  border-radius: 3px;
+}
+
+
+ 
+
+
+.date {
+  font: normal 13px/1.5em "Helvetica Neue",Helvetica,Arial,sans-serif;
+  color: #bbb;
+  font-size: 13px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  display: inline-block;
+}
+
+
+
+
+
+
