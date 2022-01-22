@@ -1,0 +1,2 @@
+class UserEvaluationQuestionScore < ApplicationRecord
+end
